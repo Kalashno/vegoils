@@ -1817,7 +1817,7 @@ export const facilities = [
     "lat": 48.38,
     "lon": -4.49,
     "capacity": "600,000 MT",
-    "commodity": "RSO"
+    "commodity": "Rapeseed"
   },
   {
     "name": "Louis Dreyfus Company Brest",
@@ -1837,7 +1837,7 @@ export const facilities = [
     "lat": 44.163,
     "lon": -94.009,
     "capacity": "700,000 MT",
-    "commodity": "SBO"
+    "commodity": "Soybean"
   },
   {
     "name": "Chs Mankato",
@@ -1857,7 +1857,7 @@ export const facilities = [
     "lat": 38.365,
     "lon": -75.599,
     "capacity": "250,000 MT",
-    "commodity": "SBO"
+    "commodity": "Soybean"
   },
   {
     "name": "Perdue Agribusiness Salisbury",
@@ -1868,5 +1868,15 @@ export const facilities = [
     "lon": -75.579,
     "capacity": "250,000 MT",
     "commodity": "SBO"
+  },
+  {
+    "name": "Elevator Bud Invest",
+    "type": "Crushing Plant",
+    "city": "Khmelnytskyi",
+    "country": "Ukraine",
+    "lat": 49.671,
+    "lon": 27.666,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
   }
 ];
