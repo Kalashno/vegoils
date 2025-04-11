@@ -1,33 +1,29 @@
 const fs = require("fs");
 const path = require("path");
-const csv = require("csv-parser");
+const xlsx = require("xlsx");
 
-const results = [];
+const inputPath = path.join(__dirname, "facilities.xlsx");
+const outputPath = path.join(__dirname, "src", "data", "facilities.js");
 
-fs.createReadStream(path.join(__dirname, "facilities.csv"), { encoding: "utf-8" })
-  .pipe(csv({ separator: ";", skipLines: 0 }))
-  .on("data", (data) => {
-    // Convert numeric values
-    data.lat = parseFloat(data.Latitude);
-    data.lon = parseFloat(data.Longitude);
+// Read Excel
+const workbook = xlsx.readFile(inputPath);
+const sheet = workbook.Sheets[workbook.SheetNames[0]];
+const data = xlsx.utils.sheet_to_json(sheet);
 
-    // Remove extra fields, keep only the desired ones
-    results.push({
-      name: data.Name,
-      type: data.Type,
-      city: data.City,
-      country: data.Country,
-      lat: data.lat,
-      lon: data.lon,
-      capacity: data.Capacity,
-      commodity: data["Commodity"]
-    });
-  })
-  .on("end", () => {
-    const outputPath = path.join(__dirname, "src", "data", "facilities.js");
-    const content =
-      "export const facilities = " + JSON.stringify(results, null, 2) + ";";
+// Transform
+const results = data.map(row => ({
+  name: row.Name?.toString().trim(),
+  type: row.Type,
+  city: row.City,
+  country: row.Country,
+  lat: typeof row.Latitude === "string" ? parseFloat(row.Latitude.replace(",", ".")) : row.Latitude,
+  lon: typeof row.Longitude === "string" ? parseFloat(row.Longitude.replace(",", ".")) : row.Longitude,
+  capacity: row.Capacity,
+  commodity: row.Commodity
+}));
 
-    fs.writeFileSync(outputPath, content, "utf8");
-    console.log("✅ facilities.js updated with", results.length, "entries.");
-  });
+// Export JS
+const content = "export const facilities = " + JSON.stringify(results, null, 2) + ";";
+fs.writeFileSync(outputPath, content, "utf8");
+
+console.log("✅ facilities.js updated with", results.length, "entries.");
