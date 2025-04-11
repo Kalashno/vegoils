@@ -296,7 +296,7 @@ export const facilities = [
     "country": "Italy",
     "lat": 44.418,
     "lon": 12.203,
-    "capacity": 700000,
+    "capacity": "700,000 MT",
     "commodity": "Vegetable Oil"
   },
   {
