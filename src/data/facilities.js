@@ -290,13 +290,13 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
-    "name": "Bunge Ravenna",
+    "name": "Unigra",
     "type": "Refinery",
     "city": "Ravenna",
     "country": "Italy",
     "lat": 44.418,
     "lon": 12.203,
-    "capacity": "500,000 MT",
+    "capacity": 700000,
     "commodity": "Vegetable Oil"
   },
   {
