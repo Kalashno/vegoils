@@ -2541,5 +2541,15 @@ export const facilities = [
     "lon": 0.02,
     "capacity": "200,000 MT",
     "commodity": "CPO"
+  },
+  {
+    "name": "Grupo Carrinho",
+    "type": "Refinery",
+    "city": "Lobito",
+    "country": "Angola",
+    "lat": -12.545,
+    "lon": 13.492,
+    "capacity": "240,000 MT",
+    "commodity": "CPO, SBO"
   }
 ];
