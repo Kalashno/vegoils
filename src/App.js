@@ -44,7 +44,6 @@ function App() {
         style={{ height: "100%", width: "100%" }}
       >
         <TileLayer
-          attribution='&copy; <a href="https://www.maptiler.com/">MapTiler</a> &copy; OpenStreetMap contributors'
           url="https://api.maptiler.com/maps/outdoor-v2/{z}/{x}/{y}.png?key=XmaHIv1FUPKsjE50mQHV"
         />
         {facilities.map((site, index) => {
