@@ -165,7 +165,7 @@ export const facilities = [
     "city": "Rotterdam",
     "country": "Netherlands",
     "lat": 51.935,
-    "lon": 4.22,
+    "lon": 4.24,
     "capacity": "300,000 MT",
     "commodity": "SBO"
   },
