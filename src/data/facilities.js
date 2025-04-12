@@ -1878,5 +1878,124 @@ export const facilities = [
     "lon": 27.666,
     "capacity": "500,000 MT",
     "commodity": "Soybean"
+  },
+  {
+    "name": "Golden Agri Tarjun",
+    "type": "Vegetable oil refinery",
+    "city": "Tarjun",
+    "country": "Indonesia",
+    "lat": -3.272,
+    "lon": 116.118,
+    "capacity": "300,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Tarahan",
+    "type": "Vegetable oil refinery",
+    "city": "Tarahan",
+    "country": "Indonesia",
+    "lat": -5.554,
+    "lon": 105.372,
+    "capacity": "300,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Olmeca Fraijanes",
+    "type": "Vegetable oil refinery",
+    "country": "Guatemala",
+    "lat": 14.539,
+    "lon": -90.452,
+    "capacity": "150,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Grupo HAME Santa Rosa Palmistería",
+    "type": "Crushing plant",
+    "country": "Guatemala",
+    "lat": 14.24,
+    "lon": -91.376,
+    "capacity": "80,000 MT",
+    "commodity": "CPO/PKO"
+  },
+  {
+    "name": "Daabon Santa Marta",
+    "type": "Vegetable oil refinery",
+    "country": "Colombia",
+    "lat": 11.242,
+    "lon": -74.205,
+    "capacity": "330,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Hondupalma Guaymas",
+    "type": "Vegetable oil refinery",
+    "country": "Honduras",
+    "lat": 15.56,
+    "lon": -87.75,
+    "capacity": "112,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Naturaceites Escuintla",
+    "type": "Vegetable oil refinery",
+    "country": "Guatemala",
+    "lat": 14.305,
+    "lon": -90.785,
+    "capacity": "100,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Grupo Oleomex Oleofinos",
+    "type": "Vegetable oil refinery",
+    "country": "Mexico",
+    "lat": 20.659,
+    "lon": -103.349,
+    "capacity": "500,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Industrial Danec Quito",
+    "type": "Vegetable oil refinery",
+    "country": "Ecuador",
+    "lat": -0.33,
+    "lon": -78.45,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "La Fabril Montecristi",
+    "type": "Vegetable oil refinery",
+    "country": "Ecuador",
+    "lat": -1.05,
+    "lon": -80.683,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Shell Rock Soy Processing",
+    "type": "Crushing plant",
+    "country": "United States",
+    "lat": 42.709,
+    "lon": -92.582,
+    "capacity": "1,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM/Marathon Spiritwood",
+    "type": "Crushing plant",
+    "country": "United States",
+    "lat": 46.927,
+    "lon": -98.6,
+    "capacity": "1,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Regina",
+    "type": "Crushing plant",
+    "country": "Canada",
+    "lat": 50.445,
+    "lon": -104.619,
+    "capacity": "1,000,000 MT",
+    "commodity": "Rapeseed"
   }
 ];
