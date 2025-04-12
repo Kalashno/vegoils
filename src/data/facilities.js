@@ -3341,5 +3341,35 @@ export const facilities = [
     "lon": 28.3228,
     "capacity": "120,000 MT",
     "commodity": "SBO"
+  },
+  {
+    "name": "Maya & Cie",
+    "type": "Refinery",
+    "city": "Bonaberi",
+    "country": "Cameroon",
+    "lat": 4.1,
+    "lon": 9.63,
+    "capacity": "250,000 MT",
+    "commodity": "CPO, SBO"
+  },
+  {
+    "name": "Sonacos SA",
+    "type": "Refinery",
+    "city": "Dakar",
+    "country": "Senegal",
+    "lat": 14.665,
+    "lon": -17.442,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Angoalissar",
+    "type": "Refinery",
+    "city": "Luanda",
+    "country": "Angola",
+    "lat": -8.812,
+    "lon": 13.24,
+    "capacity": "120,000 MT",
+    "commodity": "CPO, SBO"
   }
 ];
