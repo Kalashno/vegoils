@@ -45,7 +45,7 @@ function App() {
       >
         <TileLayer
           attribution='&copy; <a href="https://www.maptiler.com/">MapTiler</a> &copy; OpenStreetMap contributors'
-          url="https://api.maptiler.com/maps/satellite/style.json?key=XmaHIv1FUPKsjE50mQHV"
+          url="https://api.maptiler.com/maps/openstreetmap/?key=XmaHIv1FUPKsjE50mQHV#3.9/49.03228/32.32446"
         />
         {facilities.map((site, index) => {
           const lat = site.Latitude ?? site.lat;
