@@ -3538,5 +3538,1115 @@ export const facilities = [
     "lon": 28.283,
     "capacity": "120,000 MT",
     "commodity": "SBO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.583,
+    "lon": 98.667,
+    "capacity": "600,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Refinery",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "AAK India Kakinada",
+    "type": "Refinery",
+    "city": "Kakinada",
+    "country": "India",
+    "lat": 16.933,
+    "lon": 82.217,
+    "capacity": "200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Cargill Westport",
+    "type": "Refinery",
+    "city": "Westport",
+    "country": "Malaysia",
+    "lat": 2.983,
+    "lon": 101.383,
+    "capacity": "450,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Golden Agri Marunda",
+    "type": "Refinery",
+    "city": "Marunda",
+    "country": "Indonesia",
+    "lat": -6.117,
+    "lon": 106.917,
+    "capacity": "350,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Liberty Oil Mills Mumbai",
+    "type": "Refinery",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lon": 72.877,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Kapa Oil Refineries Nairobi",
+    "type": "Refinery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.292,
+    "lon": 36.822,
+    "capacity": "200,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Tropical Oil Tanzania",
+    "type": "Refinery",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "120,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Wilmar Bintulu",
+    "type": "Refinery",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.2,
+    "lon": 113.05,
+    "capacity": "500,000 MT",
+    "commodity": "CPO"
   }
 ];
