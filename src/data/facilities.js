@@ -5848,5 +5848,605 @@ export const facilities = [
     "lon": 79.861,
     "capacity": "150,000 MT",
     "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "CJ CheilJedang Incheon",
+    "type": "Refinery",
+    "city": "Incheon",
+    "country": "South Korea",
+    "lat": 37.456,
+    "lon": 126.705,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Nisshin Oillio Yokohama",
+    "type": "Refinery",
+    "city": "Yokohama",
+    "country": "Japan",
+    "lat": 35.443,
+    "lon": 139.638,
+    "capacity": "400,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Shezan International Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Behshahr Industrial Tehran",
+    "type": "Refinery",
+    "city": "Tehran",
+    "country": "Iran",
+    "lat": 35.689,
+    "lon": 51.389,
+    "capacity": "300,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Refinery",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Al-Doura Oil Baghdad",
+    "type": "Refinery",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "lat": 33.315,
+    "lon": 44.366,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Refinery",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Refinery",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "150,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Olam Mozambique Beira",
+    "type": "Refinery",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Cargill Chile Santiago",
+    "type": "Refinery",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Refinery",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "280,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Gruma Mexico Monterrey",
+    "type": "Refinery",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.686,
+    "lon": -100.316,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Caribbean Agro Oils Port of Spain",
+    "type": "Refinery",
+    "city": "Port of Spain",
+    "country": "Trinidad and Tobago",
+    "lat": 10.654,
+    "lon": -61.501,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Mazza Oil Kingston",
+    "type": "Refinery",
+    "city": "Kingston",
+    "country": "Jamaica",
+    "lat": 17.971,
+    "lon": -76.793,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "CJ CheilJedang Incheon",
+    "type": "Refinery",
+    "city": "Incheon",
+    "country": "South Korea",
+    "lat": 37.456,
+    "lon": 126.705,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Nisshin Oillio Yokohama",
+    "type": "Refinery",
+    "city": "Yokohama",
+    "country": "Japan",
+    "lat": 35.443,
+    "lon": 139.638,
+    "capacity": "400,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Shezan International Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Behshahr Industrial Tehran",
+    "type": "Refinery",
+    "city": "Tehran",
+    "country": "Iran",
+    "lat": 35.689,
+    "lon": 51.389,
+    "capacity": "300,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Refinery",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Al-Doura Oil Baghdad",
+    "type": "Refinery",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "lat": 33.315,
+    "lon": 44.366,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Refinery",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Refinery",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "150,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Olam Mozambique Beira",
+    "type": "Refinery",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Cargill Chile Santiago",
+    "type": "Refinery",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Refinery",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "280,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Gruma Mexico Monterrey",
+    "type": "Refinery",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.686,
+    "lon": -100.316,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Caribbean Agro Oils Port of Spain",
+    "type": "Refinery",
+    "city": "Port of Spain",
+    "country": "Trinidad and Tobago",
+    "lat": 10.654,
+    "lon": -61.501,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Mazza Oil Kingston",
+    "type": "Refinery",
+    "city": "Kingston",
+    "country": "Jamaica",
+    "lat": 17.971,
+    "lon": -76.793,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "CJ CheilJedang Incheon",
+    "type": "Refinery",
+    "city": "Incheon",
+    "country": "South Korea",
+    "lat": 37.456,
+    "lon": 126.705,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Nisshin Oillio Yokohama",
+    "type": "Refinery",
+    "city": "Yokohama",
+    "country": "Japan",
+    "lat": 35.443,
+    "lon": 139.638,
+    "capacity": "400,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Shezan International Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Behshahr Industrial Tehran",
+    "type": "Refinery",
+    "city": "Tehran",
+    "country": "Iran",
+    "lat": 35.689,
+    "lon": 51.389,
+    "capacity": "300,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Refinery",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Al-Doura Oil Baghdad",
+    "type": "Refinery",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "lat": 33.315,
+    "lon": 44.366,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Refinery",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Refinery",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "150,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Olam Mozambique Beira",
+    "type": "Refinery",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Cargill Chile Santiago",
+    "type": "Refinery",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Refinery",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "280,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Gruma Mexico Monterrey",
+    "type": "Refinery",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.686,
+    "lon": -100.316,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Caribbean Agro Oils Port of Spain",
+    "type": "Refinery",
+    "city": "Port of Spain",
+    "country": "Trinidad and Tobago",
+    "lat": 10.654,
+    "lon": -61.501,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Mazza Oil Kingston",
+    "type": "Refinery",
+    "city": "Kingston",
+    "country": "Jamaica",
+    "lat": 17.971,
+    "lon": -76.793,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "CJ CheilJedang Incheon",
+    "type": "Refinery",
+    "city": "Incheon",
+    "country": "South Korea",
+    "lat": 37.456,
+    "lon": 126.705,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Nisshin Oillio Yokohama",
+    "type": "Refinery",
+    "city": "Yokohama",
+    "country": "Japan",
+    "lat": 35.443,
+    "lon": 139.638,
+    "capacity": "400,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Shezan International Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Behshahr Industrial Tehran",
+    "type": "Refinery",
+    "city": "Tehran",
+    "country": "Iran",
+    "lat": 35.689,
+    "lon": 51.389,
+    "capacity": "300,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Refinery",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Al-Doura Oil Baghdad",
+    "type": "Refinery",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "lat": 33.315,
+    "lon": 44.366,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Refinery",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Refinery",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "150,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Olam Mozambique Beira",
+    "type": "Refinery",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Cargill Chile Santiago",
+    "type": "Refinery",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Refinery",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "280,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Gruma Mexico Monterrey",
+    "type": "Refinery",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.686,
+    "lon": -100.316,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Caribbean Agro Oils Port of Spain",
+    "type": "Refinery",
+    "city": "Port of Spain",
+    "country": "Trinidad and Tobago",
+    "lat": 10.654,
+    "lon": -61.501,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Mazza Oil Kingston",
+    "type": "Refinery",
+    "city": "Kingston",
+    "country": "Jamaica",
+    "lat": 17.971,
+    "lon": -76.793,
+    "capacity": "100,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "CJ CheilJedang Incheon",
+    "type": "Refinery",
+    "city": "Incheon",
+    "country": "South Korea",
+    "lat": 37.456,
+    "lon": 126.705,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Nisshin Oillio Yokohama",
+    "type": "Refinery",
+    "city": "Yokohama",
+    "country": "Japan",
+    "lat": 35.443,
+    "lon": 139.638,
+    "capacity": "400,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Shezan International Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Behshahr Industrial Tehran",
+    "type": "Refinery",
+    "city": "Tehran",
+    "country": "Iran",
+    "lat": 35.689,
+    "lon": 51.389,
+    "capacity": "300,000 MT",
+    "commodity": "SFO"
   }
 ];
