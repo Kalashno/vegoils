@@ -6868,5 +6868,2985 @@ export const facilities = [
     "lon": -122.133,
     "capacity": "750,000 MT",
     "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "ADM Decatur",
+    "type": "Crushing Plant",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.84,
+    "lon": -88.955,
+    "capacity": "2,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill West Fargo",
+    "type": "Crushing Plant",
+    "city": "West Fargo",
+    "country": "USA",
+    "lat": 46.875,
+    "lon": -96.9,
+    "capacity": "1,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Hamilton",
+    "type": "Crushing Plant",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.25,
+    "lon": -79.85,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Richardson International Yorkton",
+    "type": "Crushing Plant",
+    "city": "Yorkton",
+    "country": "Canada",
+    "lat": 51.217,
+    "lon": -102.467,
+    "capacity": "1,100,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Viterra Warden",
+    "type": "Crushing Plant",
+    "city": "Warden",
+    "country": "USA",
+    "lat": 46.965,
+    "lon": -119.035,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "LDC Rondonópolis",
+    "type": "Crushing Plant",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "1,500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Rosario",
+    "type": "Crushing Plant",
+    "city": "Rosario",
+    "country": "Argentina",
+    "lat": -32.957,
+    "lon": -60.639,
+    "capacity": "2,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AGD General Deheza",
+    "type": "Crushing Plant",
+    "city": "General Deheza",
+    "country": "Argentina",
+    "lat": -33.05,
+    "lon": -63.783,
+    "capacity": "1,800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Oleoplan Passo Fundo",
+    "type": "Crushing Plant",
+    "city": "Passo Fundo",
+    "country": "Brazil",
+    "lat": -28.257,
+    "lon": -52.409,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "COFCO Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Argentina",
+    "lat": -32.486,
+    "lon": -60.721,
+    "capacity": "1,600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Nipawin",
+    "type": "Crushing Plant",
+    "city": "Nipawin",
+    "country": "Canada",
+    "lat": 53.361,
+    "lon": -104.017,
+    "capacity": "500,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CHS Fairmont",
+    "type": "Crushing Plant",
+    "city": "Fairmont",
+    "country": "USA",
+    "lat": 43.635,
+    "lon": -94.461,
+    "capacity": "1,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Los Grobo Chivilcoy",
+    "type": "Crushing Plant",
+    "city": "Chivilcoy",
+    "country": "Argentina",
+    "lat": -34.895,
+    "lon": -60.032,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Decatur",
+    "type": "Crushing Plant",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.84,
+    "lon": -88.955,
+    "capacity": "2,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill West Fargo",
+    "type": "Crushing Plant",
+    "city": "West Fargo",
+    "country": "USA",
+    "lat": 46.875,
+    "lon": -96.9,
+    "capacity": "1,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Hamilton",
+    "type": "Crushing Plant",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.25,
+    "lon": -79.85,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Richardson International Yorkton",
+    "type": "Crushing Plant",
+    "city": "Yorkton",
+    "country": "Canada",
+    "lat": 51.217,
+    "lon": -102.467,
+    "capacity": "1,100,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Viterra Warden",
+    "type": "Crushing Plant",
+    "city": "Warden",
+    "country": "USA",
+    "lat": 46.965,
+    "lon": -119.035,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "LDC Rondonópolis",
+    "type": "Crushing Plant",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "1,500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Rosario",
+    "type": "Crushing Plant",
+    "city": "Rosario",
+    "country": "Argentina",
+    "lat": -32.957,
+    "lon": -60.639,
+    "capacity": "2,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AGD General Deheza",
+    "type": "Crushing Plant",
+    "city": "General Deheza",
+    "country": "Argentina",
+    "lat": -33.05,
+    "lon": -63.783,
+    "capacity": "1,800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Oleoplan Passo Fundo",
+    "type": "Crushing Plant",
+    "city": "Passo Fundo",
+    "country": "Brazil",
+    "lat": -28.257,
+    "lon": -52.409,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "COFCO Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Argentina",
+    "lat": -32.486,
+    "lon": -60.721,
+    "capacity": "1,600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Nipawin",
+    "type": "Crushing Plant",
+    "city": "Nipawin",
+    "country": "Canada",
+    "lat": 53.361,
+    "lon": -104.017,
+    "capacity": "500,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CHS Fairmont",
+    "type": "Crushing Plant",
+    "city": "Fairmont",
+    "country": "USA",
+    "lat": 43.635,
+    "lon": -94.461,
+    "capacity": "1,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Los Grobo Chivilcoy",
+    "type": "Crushing Plant",
+    "city": "Chivilcoy",
+    "country": "Argentina",
+    "lat": -34.895,
+    "lon": -60.032,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Decatur",
+    "type": "Crushing Plant",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.84,
+    "lon": -88.955,
+    "capacity": "2,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill West Fargo",
+    "type": "Crushing Plant",
+    "city": "West Fargo",
+    "country": "USA",
+    "lat": 46.875,
+    "lon": -96.9,
+    "capacity": "1,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Hamilton",
+    "type": "Crushing Plant",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.25,
+    "lon": -79.85,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Richardson International Yorkton",
+    "type": "Crushing Plant",
+    "city": "Yorkton",
+    "country": "Canada",
+    "lat": 51.217,
+    "lon": -102.467,
+    "capacity": "1,100,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Viterra Warden",
+    "type": "Crushing Plant",
+    "city": "Warden",
+    "country": "USA",
+    "lat": 46.965,
+    "lon": -119.035,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "LDC Rondonópolis",
+    "type": "Crushing Plant",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "1,500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Rosario",
+    "type": "Crushing Plant",
+    "city": "Rosario",
+    "country": "Argentina",
+    "lat": -32.957,
+    "lon": -60.639,
+    "capacity": "2,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AGD General Deheza",
+    "type": "Crushing Plant",
+    "city": "General Deheza",
+    "country": "Argentina",
+    "lat": -33.05,
+    "lon": -63.783,
+    "capacity": "1,800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Oleoplan Passo Fundo",
+    "type": "Crushing Plant",
+    "city": "Passo Fundo",
+    "country": "Brazil",
+    "lat": -28.257,
+    "lon": -52.409,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "COFCO Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Argentina",
+    "lat": -32.486,
+    "lon": -60.721,
+    "capacity": "1,600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Nipawin",
+    "type": "Crushing Plant",
+    "city": "Nipawin",
+    "country": "Canada",
+    "lat": 53.361,
+    "lon": -104.017,
+    "capacity": "500,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CHS Fairmont",
+    "type": "Crushing Plant",
+    "city": "Fairmont",
+    "country": "USA",
+    "lat": 43.635,
+    "lon": -94.461,
+    "capacity": "1,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Los Grobo Chivilcoy",
+    "type": "Crushing Plant",
+    "city": "Chivilcoy",
+    "country": "Argentina",
+    "lat": -34.895,
+    "lon": -60.032,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Decatur",
+    "type": "Crushing Plant",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.84,
+    "lon": -88.955,
+    "capacity": "2,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill West Fargo",
+    "type": "Crushing Plant",
+    "city": "West Fargo",
+    "country": "USA",
+    "lat": 46.875,
+    "lon": -96.9,
+    "capacity": "1,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Hamilton",
+    "type": "Crushing Plant",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.25,
+    "lon": -79.85,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Richardson International Yorkton",
+    "type": "Crushing Plant",
+    "city": "Yorkton",
+    "country": "Canada",
+    "lat": 51.217,
+    "lon": -102.467,
+    "capacity": "1,100,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Viterra Warden",
+    "type": "Crushing Plant",
+    "city": "Warden",
+    "country": "USA",
+    "lat": 46.965,
+    "lon": -119.035,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "LDC Rondonópolis",
+    "type": "Crushing Plant",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "1,500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Rosario",
+    "type": "Crushing Plant",
+    "city": "Rosario",
+    "country": "Argentina",
+    "lat": -32.957,
+    "lon": -60.639,
+    "capacity": "2,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AGD General Deheza",
+    "type": "Crushing Plant",
+    "city": "General Deheza",
+    "country": "Argentina",
+    "lat": -33.05,
+    "lon": -63.783,
+    "capacity": "1,800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Oleoplan Passo Fundo",
+    "type": "Crushing Plant",
+    "city": "Passo Fundo",
+    "country": "Brazil",
+    "lat": -28.257,
+    "lon": -52.409,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "COFCO Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Argentina",
+    "lat": -32.486,
+    "lon": -60.721,
+    "capacity": "1,600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Nipawin",
+    "type": "Crushing Plant",
+    "city": "Nipawin",
+    "country": "Canada",
+    "lat": 53.361,
+    "lon": -104.017,
+    "capacity": "500,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CHS Fairmont",
+    "type": "Crushing Plant",
+    "city": "Fairmont",
+    "country": "USA",
+    "lat": 43.635,
+    "lon": -94.461,
+    "capacity": "1,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Los Grobo Chivilcoy",
+    "type": "Crushing Plant",
+    "city": "Chivilcoy",
+    "country": "Argentina",
+    "lat": -34.895,
+    "lon": -60.032,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Decatur",
+    "type": "Crushing Plant",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.84,
+    "lon": -88.955,
+    "capacity": "2,000,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill West Fargo",
+    "type": "Crushing Plant",
+    "city": "West Fargo",
+    "country": "USA",
+    "lat": 46.875,
+    "lon": -96.9,
+    "capacity": "1,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Hamilton",
+    "type": "Crushing Plant",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.25,
+    "lon": -79.85,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Richardson International Yorkton",
+    "type": "Crushing Plant",
+    "city": "Yorkton",
+    "country": "Canada",
+    "lat": 51.217,
+    "lon": -102.467,
+    "capacity": "1,100,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Viterra Warden",
+    "type": "Crushing Plant",
+    "city": "Warden",
+    "country": "USA",
+    "lat": 46.965,
+    "lon": -119.035,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "LDC Rondonópolis",
+    "type": "Crushing Plant",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "1,500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Rosario",
+    "type": "Crushing Plant",
+    "city": "Rosario",
+    "country": "Argentina",
+    "lat": -32.957,
+    "lon": -60.639,
+    "capacity": "2,200,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AGD General Deheza",
+    "type": "Crushing Plant",
+    "city": "General Deheza",
+    "country": "Argentina",
+    "lat": -33.05,
+    "lon": -63.783,
+    "capacity": "1,800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Agroindustrial LDC Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Paraguay",
+    "lat": -27.2,
+    "lon": -58.3,
+    "capacity": "600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Montevideo",
+    "type": "Crushing Plant",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.901,
+    "lon": -56.164,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Crushing Plant",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Quito",
+    "type": "Crushing Plant",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.18,
+    "lon": -78.467,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Cartagena",
+    "type": "Crushing Plant",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Santiago",
+    "type": "Crushing Plant",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ETG Agri Abidjan",
+    "type": "Crushing Plant",
+    "city": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "lat": 5.348,
+    "lon": -4.027,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Tema",
+    "type": "Crushing Plant",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.667,
+    "lon": -0.017,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Crushing Plant",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Agroindustrial LDC Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Paraguay",
+    "lat": -27.2,
+    "lon": -58.3,
+    "capacity": "600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Montevideo",
+    "type": "Crushing Plant",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.901,
+    "lon": -56.164,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Crushing Plant",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Quito",
+    "type": "Crushing Plant",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.18,
+    "lon": -78.467,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Cartagena",
+    "type": "Crushing Plant",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Santiago",
+    "type": "Crushing Plant",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ETG Agri Abidjan",
+    "type": "Crushing Plant",
+    "city": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "lat": 5.348,
+    "lon": -4.027,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Tema",
+    "type": "Crushing Plant",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.667,
+    "lon": -0.017,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Crushing Plant",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Agroindustrial LDC Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Paraguay",
+    "lat": -27.2,
+    "lon": -58.3,
+    "capacity": "600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Montevideo",
+    "type": "Crushing Plant",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.901,
+    "lon": -56.164,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Crushing Plant",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Quito",
+    "type": "Crushing Plant",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.18,
+    "lon": -78.467,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Cartagena",
+    "type": "Crushing Plant",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Santiago",
+    "type": "Crushing Plant",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ETG Agri Abidjan",
+    "type": "Crushing Plant",
+    "city": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "lat": 5.348,
+    "lon": -4.027,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Tema",
+    "type": "Crushing Plant",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.667,
+    "lon": -0.017,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Crushing Plant",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Agroindustrial LDC Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Paraguay",
+    "lat": -27.2,
+    "lon": -58.3,
+    "capacity": "600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Montevideo",
+    "type": "Crushing Plant",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.901,
+    "lon": -56.164,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Crushing Plant",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Quito",
+    "type": "Crushing Plant",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.18,
+    "lon": -78.467,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Cartagena",
+    "type": "Crushing Plant",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Santiago",
+    "type": "Crushing Plant",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ETG Agri Abidjan",
+    "type": "Crushing Plant",
+    "city": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "lat": 5.348,
+    "lon": -4.027,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Tema",
+    "type": "Crushing Plant",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.667,
+    "lon": -0.017,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Crushing Plant",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Agroindustrial LDC Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Paraguay",
+    "lat": -27.2,
+    "lon": -58.3,
+    "capacity": "600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Montevideo",
+    "type": "Crushing Plant",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.901,
+    "lon": -56.164,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Crushing Plant",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Quito",
+    "type": "Crushing Plant",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.18,
+    "lon": -78.467,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Cartagena",
+    "type": "Crushing Plant",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Santiago",
+    "type": "Crushing Plant",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ETG Agri Abidjan",
+    "type": "Crushing Plant",
+    "city": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "lat": 5.348,
+    "lon": -4.027,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Tema",
+    "type": "Crushing Plant",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.667,
+    "lon": -0.017,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Crushing Plant",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Agroindustrial LDC Timbues",
+    "type": "Crushing Plant",
+    "city": "Timbúes",
+    "country": "Paraguay",
+    "lat": -27.2,
+    "lon": -58.3,
+    "capacity": "600,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Montevideo",
+    "type": "Crushing Plant",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.901,
+    "lon": -56.164,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Grupo Palmas Lima",
+    "type": "Crushing Plant",
+    "city": "Lima",
+    "country": "Peru",
+    "lat": -12.046,
+    "lon": -77.042,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Quito",
+    "type": "Crushing Plant",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.18,
+    "lon": -78.467,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Cartagena",
+    "type": "Crushing Plant",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.5,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Cargill Santiago",
+    "type": "Crushing Plant",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.448,
+    "lon": -70.669,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ETG Agri Abidjan",
+    "type": "Crushing Plant",
+    "city": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "lat": 5.348,
+    "lon": -4.027,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Tema",
+    "type": "Crushing Plant",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.667,
+    "lon": -0.017,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Africa Thika",
+    "type": "Crushing Plant",
+    "city": "Thika",
+    "country": "Kenya",
+    "lat": -1.033,
+    "lon": 37.067,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Crushing Plant",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Beira",
+    "type": "Crushing Plant",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ETG Lusaka",
+    "type": "Crushing Plant",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.387,
+    "lon": 28.322,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AgroPro Gaborone",
+    "type": "Crushing Plant",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.658,
+    "lon": 25.908,
+    "capacity": "120,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Tanzania Dar es Salaam",
+    "type": "Crushing Plant",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "250,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Horizon Addis",
+    "type": "Crushing Plant",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.03,
+    "lon": 38.74,
+    "capacity": "220,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Crushing Plant",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Crushing Plant",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Crushing Plant",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Crushing Plant",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Crushing Plant",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CEVITAL Béjaïa",
+    "type": "Crushing Plant",
+    "city": "Béjaïa",
+    "country": "Algeria",
+    "lat": 36.755,
+    "lon": 5.084,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Syria Agro Aleppo",
+    "type": "Crushing Plant",
+    "city": "Aleppo",
+    "country": "Syria",
+    "lat": 36.2,
+    "lon": 37.16,
+    "capacity": "180,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Crushing Plant",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Abalıoğlu Feed Izmir",
+    "type": "Crushing Plant",
+    "city": "Izmir",
+    "country": "Turkey",
+    "lat": 38.419,
+    "lon": 27.128,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Crushing Plant",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Beira",
+    "type": "Crushing Plant",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ETG Lusaka",
+    "type": "Crushing Plant",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.387,
+    "lon": 28.322,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AgroPro Gaborone",
+    "type": "Crushing Plant",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.658,
+    "lon": 25.908,
+    "capacity": "120,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Tanzania Dar es Salaam",
+    "type": "Crushing Plant",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "250,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Horizon Addis",
+    "type": "Crushing Plant",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.03,
+    "lon": 38.74,
+    "capacity": "220,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Crushing Plant",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Crushing Plant",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Crushing Plant",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Crushing Plant",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Crushing Plant",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CEVITAL Béjaïa",
+    "type": "Crushing Plant",
+    "city": "Béjaïa",
+    "country": "Algeria",
+    "lat": 36.755,
+    "lon": 5.084,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Syria Agro Aleppo",
+    "type": "Crushing Plant",
+    "city": "Aleppo",
+    "country": "Syria",
+    "lat": 36.2,
+    "lon": 37.16,
+    "capacity": "180,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Crushing Plant",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Abalıoğlu Feed Izmir",
+    "type": "Crushing Plant",
+    "city": "Izmir",
+    "country": "Turkey",
+    "lat": 38.419,
+    "lon": 27.128,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Crushing Plant",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Beira",
+    "type": "Crushing Plant",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ETG Lusaka",
+    "type": "Crushing Plant",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.387,
+    "lon": 28.322,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AgroPro Gaborone",
+    "type": "Crushing Plant",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.658,
+    "lon": 25.908,
+    "capacity": "120,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Tanzania Dar es Salaam",
+    "type": "Crushing Plant",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "250,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Horizon Addis",
+    "type": "Crushing Plant",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.03,
+    "lon": 38.74,
+    "capacity": "220,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Crushing Plant",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Crushing Plant",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Crushing Plant",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Crushing Plant",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Crushing Plant",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "CEVITAL Béjaïa",
+    "type": "Crushing Plant",
+    "city": "Béjaïa",
+    "country": "Algeria",
+    "lat": 36.755,
+    "lon": 5.084,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Syria Agro Aleppo",
+    "type": "Crushing Plant",
+    "city": "Aleppo",
+    "country": "Syria",
+    "lat": 36.2,
+    "lon": 37.16,
+    "capacity": "180,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Savola Edible Oils Jeddah",
+    "type": "Crushing Plant",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.485,
+    "lon": 39.192,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Abalıoğlu Feed Izmir",
+    "type": "Crushing Plant",
+    "city": "Izmir",
+    "country": "Turkey",
+    "lat": 38.419,
+    "lon": 27.128,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Sundown Oils Johannesburg",
+    "type": "Crushing Plant",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.204,
+    "lon": 28.047,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Madagascar Oils Mahajanga",
+    "type": "Crushing Plant",
+    "city": "Mahajanga",
+    "country": "Madagascar",
+    "lat": -15.717,
+    "lon": 46.317,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Olam Beira",
+    "type": "Crushing Plant",
+    "city": "Beira",
+    "country": "Mozambique",
+    "lat": -19.822,
+    "lon": 34.838,
+    "capacity": "180,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ETG Lusaka",
+    "type": "Crushing Plant",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.387,
+    "lon": 28.322,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "AgroPro Gaborone",
+    "type": "Crushing Plant",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.658,
+    "lon": 25.908,
+    "capacity": "120,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Bidco Tanzania Dar es Salaam",
+    "type": "Crushing Plant",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.792,
+    "lon": 39.208,
+    "capacity": "250,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Horizon Addis",
+    "type": "Crushing Plant",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.03,
+    "lon": 38.74,
+    "capacity": "220,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Hormuud Agro Mogadishu",
+    "type": "Crushing Plant",
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "lat": 2.04,
+    "lon": 45.343,
+    "capacity": "100,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Crushing Plant",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Crushing Plant",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Crushing Plant",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Crushing Plant",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Yihai Kerry Shanghai",
+    "type": "Crushing Plant",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lon": 121.47,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "COFCO Tianjin",
+    "type": "Crushing Plant",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.14,
+    "lon": 117.2,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Guangzhou",
+    "type": "Crushing Plant",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lon": 113.27,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Crushing Plant",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "900,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Crushing Plant",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Liberty Oil Mills Karachi",
+    "type": "Crushing Plant",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.86,
+    "lon": 67.01,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Crushing Plant",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "TK Group Chattogram",
+    "type": "Crushing Plant",
+    "city": "Chattogram",
+    "country": "Bangladesh",
+    "lat": 22.356,
+    "lon": 91.783,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Meghna Group Narayanganj",
+    "type": "Crushing Plant",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "P.T. Oils Colombo",
+    "type": "Crushing Plant",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Wilmar Myanmar Yangon",
+    "type": "Crushing Plant",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "lat": 16.866,
+    "lon": 96.195,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Yihai Kerry Shanghai",
+    "type": "Crushing Plant",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lon": 121.47,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "COFCO Tianjin",
+    "type": "Crushing Plant",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.14,
+    "lon": 117.2,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Guangzhou",
+    "type": "Crushing Plant",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lon": 113.27,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Crushing Plant",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "900,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Crushing Plant",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Liberty Oil Mills Karachi",
+    "type": "Crushing Plant",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.86,
+    "lon": 67.01,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Crushing Plant",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "TK Group Chattogram",
+    "type": "Crushing Plant",
+    "city": "Chattogram",
+    "country": "Bangladesh",
+    "lat": 22.356,
+    "lon": 91.783,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Meghna Group Narayanganj",
+    "type": "Crushing Plant",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "P.T. Oils Colombo",
+    "type": "Crushing Plant",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Wilmar Myanmar Yangon",
+    "type": "Crushing Plant",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "lat": 16.866,
+    "lon": 96.195,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Yihai Kerry Shanghai",
+    "type": "Crushing Plant",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lon": 121.47,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "COFCO Tianjin",
+    "type": "Crushing Plant",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.14,
+    "lon": 117.2,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Guangzhou",
+    "type": "Crushing Plant",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lon": 113.27,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Crushing Plant",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "900,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Crushing Plant",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Liberty Oil Mills Karachi",
+    "type": "Crushing Plant",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.86,
+    "lon": 67.01,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Crushing Plant",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "TK Group Chattogram",
+    "type": "Crushing Plant",
+    "city": "Chattogram",
+    "country": "Bangladesh",
+    "lat": 22.356,
+    "lon": 91.783,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Meghna Group Narayanganj",
+    "type": "Crushing Plant",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "P.T. Oils Colombo",
+    "type": "Crushing Plant",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Wilmar Myanmar Yangon",
+    "type": "Crushing Plant",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "lat": 16.866,
+    "lon": 96.195,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Yihai Kerry Shanghai",
+    "type": "Crushing Plant",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lon": 121.47,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "COFCO Tianjin",
+    "type": "Crushing Plant",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.14,
+    "lon": 117.2,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Guangzhou",
+    "type": "Crushing Plant",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lon": 113.27,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Crushing Plant",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "900,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Crushing Plant",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Liberty Oil Mills Karachi",
+    "type": "Crushing Plant",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.86,
+    "lon": 67.01,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Crushing Plant",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "TK Group Chattogram",
+    "type": "Crushing Plant",
+    "city": "Chattogram",
+    "country": "Bangladesh",
+    "lat": 22.356,
+    "lon": 91.783,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Meghna Group Narayanganj",
+    "type": "Crushing Plant",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "P.T. Oils Colombo",
+    "type": "Crushing Plant",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Wilmar Myanmar Yangon",
+    "type": "Crushing Plant",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "lat": 16.866,
+    "lon": 96.195,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Yihai Kerry Shanghai",
+    "type": "Crushing Plant",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lon": 121.47,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "COFCO Tianjin",
+    "type": "Crushing Plant",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.14,
+    "lon": 117.2,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Guangzhou",
+    "type": "Crushing Plant",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lon": 113.27,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Crushing Plant",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "900,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Crushing Plant",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Liberty Oil Mills Karachi",
+    "type": "Crushing Plant",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.86,
+    "lon": 67.01,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Crushing Plant",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "TK Group Chattogram",
+    "type": "Crushing Plant",
+    "city": "Chattogram",
+    "country": "Bangladesh",
+    "lat": 22.356,
+    "lon": 91.783,
+    "capacity": "350,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Meghna Group Narayanganj",
+    "type": "Crushing Plant",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "P.T. Oils Colombo",
+    "type": "Crushing Plant",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Wilmar Myanmar Yangon",
+    "type": "Crushing Plant",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "lat": 16.866,
+    "lon": 96.195,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Yihai Kerry Shanghai",
+    "type": "Crushing Plant",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lon": 121.47,
+    "capacity": "800,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "COFCO Tianjin",
+    "type": "Crushing Plant",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.14,
+    "lon": 117.2,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Wilmar Guangzhou",
+    "type": "Crushing Plant",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lon": 113.27,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Crushing Plant",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "900,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Crushing Plant",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Kernel Group Poltava",
+    "type": "Crushing Plant",
+    "city": "Poltava",
+    "country": "Ukraine",
+    "lat": 49.589,
+    "lon": 34.551,
+    "capacity": "800,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "MHP Vinnytsia",
+    "type": "Crushing Plant",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 49.234,
+    "lon": 28.468,
+    "capacity": "600,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Efko Group Alekseyevka",
+    "type": "Crushing Plant",
+    "city": "Alekseyevka",
+    "country": "Russia",
+    "lat": 50.63,
+    "lon": 38.68,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Aston Group Volgograd",
+    "type": "Crushing Plant",
+    "city": "Volgograd",
+    "country": "Russia",
+    "lat": 48.708,
+    "lon": 44.514,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Straubing",
+    "type": "Crushing Plant",
+    "city": "Straubing",
+    "country": "Germany",
+    "lat": 48.881,
+    "lon": 12.573,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Avril Group Grand-Couronne",
+    "type": "Crushing Plant",
+    "city": "Grand-Couronne",
+    "country": "France",
+    "lat": 49.39,
+    "lon": 1.02,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Bunge Poland Kruszwica",
+    "type": "Crushing Plant",
+    "city": "Kruszwica",
+    "country": "Poland",
+    "lat": 52.676,
+    "lon": 18.319,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Cargill Hungary Martfű",
+    "type": "Crushing Plant",
+    "city": "Martfű",
+    "country": "Hungary",
+    "lat": 47,
+    "lon": 20.283,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Bunge Romania Lehliu",
+    "type": "Crushing Plant",
+    "city": "Lehliu",
+    "country": "Romania",
+    "lat": 44.435,
+    "lon": 26.857,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Bulgaria Varna",
+    "type": "Crushing Plant",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "lat": 43.204,
+    "lon": 27.91,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Czech Prague",
+    "type": "Crushing Plant",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "lat": 50.075,
+    "lon": 14.437,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Victoria Group Šid",
+    "type": "Crushing Plant",
+    "city": "Šid",
+    "country": "Serbia",
+    "lat": 45.132,
+    "lon": 19.224,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Kernel Group Poltava",
+    "type": "Crushing Plant",
+    "city": "Poltava",
+    "country": "Ukraine",
+    "lat": 49.589,
+    "lon": 34.551,
+    "capacity": "800,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "MHP Vinnytsia",
+    "type": "Crushing Plant",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 49.234,
+    "lon": 28.468,
+    "capacity": "600,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Efko Group Alekseyevka",
+    "type": "Crushing Plant",
+    "city": "Alekseyevka",
+    "country": "Russia",
+    "lat": 50.63,
+    "lon": 38.68,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Aston Group Volgograd",
+    "type": "Crushing Plant",
+    "city": "Volgograd",
+    "country": "Russia",
+    "lat": 48.708,
+    "lon": 44.514,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Straubing",
+    "type": "Crushing Plant",
+    "city": "Straubing",
+    "country": "Germany",
+    "lat": 48.881,
+    "lon": 12.573,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Avril Group Grand-Couronne",
+    "type": "Crushing Plant",
+    "city": "Grand-Couronne",
+    "country": "France",
+    "lat": 49.39,
+    "lon": 1.02,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Bunge Poland Kruszwica",
+    "type": "Crushing Plant",
+    "city": "Kruszwica",
+    "country": "Poland",
+    "lat": 52.676,
+    "lon": 18.319,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Cargill Hungary Martfű",
+    "type": "Crushing Plant",
+    "city": "Martfű",
+    "country": "Hungary",
+    "lat": 47,
+    "lon": 20.283,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Bunge Romania Lehliu",
+    "type": "Crushing Plant",
+    "city": "Lehliu",
+    "country": "Romania",
+    "lat": 44.435,
+    "lon": 26.857,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Bulgaria Varna",
+    "type": "Crushing Plant",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "lat": 43.204,
+    "lon": 27.91,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Czech Prague",
+    "type": "Crushing Plant",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "lat": 50.075,
+    "lon": 14.437,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Victoria Group Šid",
+    "type": "Crushing Plant",
+    "city": "Šid",
+    "country": "Serbia",
+    "lat": 45.132,
+    "lon": 19.224,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Kernel Group Poltava",
+    "type": "Crushing Plant",
+    "city": "Poltava",
+    "country": "Ukraine",
+    "lat": 49.589,
+    "lon": 34.551,
+    "capacity": "800,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "MHP Vinnytsia",
+    "type": "Crushing Plant",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 49.234,
+    "lon": 28.468,
+    "capacity": "600,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Efko Group Alekseyevka",
+    "type": "Crushing Plant",
+    "city": "Alekseyevka",
+    "country": "Russia",
+    "lat": 50.63,
+    "lon": 38.68,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Aston Group Volgograd",
+    "type": "Crushing Plant",
+    "city": "Volgograd",
+    "country": "Russia",
+    "lat": 48.708,
+    "lon": 44.514,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Straubing",
+    "type": "Crushing Plant",
+    "city": "Straubing",
+    "country": "Germany",
+    "lat": 48.881,
+    "lon": 12.573,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Avril Group Grand-Couronne",
+    "type": "Crushing Plant",
+    "city": "Grand-Couronne",
+    "country": "France",
+    "lat": 49.39,
+    "lon": 1.02,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Bunge Poland Kruszwica",
+    "type": "Crushing Plant",
+    "city": "Kruszwica",
+    "country": "Poland",
+    "lat": 52.676,
+    "lon": 18.319,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Cargill Hungary Martfű",
+    "type": "Crushing Plant",
+    "city": "Martfű",
+    "country": "Hungary",
+    "lat": 47,
+    "lon": 20.283,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Bunge Romania Lehliu",
+    "type": "Crushing Plant",
+    "city": "Lehliu",
+    "country": "Romania",
+    "lat": 44.435,
+    "lon": 26.857,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Bulgaria Varna",
+    "type": "Crushing Plant",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "lat": 43.204,
+    "lon": 27.91,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Czech Prague",
+    "type": "Crushing Plant",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "lat": 50.075,
+    "lon": 14.437,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Victoria Group Šid",
+    "type": "Crushing Plant",
+    "city": "Šid",
+    "country": "Serbia",
+    "lat": 45.132,
+    "lon": 19.224,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Kernel Group Poltava",
+    "type": "Crushing Plant",
+    "city": "Poltava",
+    "country": "Ukraine",
+    "lat": 49.589,
+    "lon": 34.551,
+    "capacity": "800,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "MHP Vinnytsia",
+    "type": "Crushing Plant",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 49.234,
+    "lon": 28.468,
+    "capacity": "600,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Efko Group Alekseyevka",
+    "type": "Crushing Plant",
+    "city": "Alekseyevka",
+    "country": "Russia",
+    "lat": 50.63,
+    "lon": 38.68,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Aston Group Volgograd",
+    "type": "Crushing Plant",
+    "city": "Volgograd",
+    "country": "Russia",
+    "lat": 48.708,
+    "lon": 44.514,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Straubing",
+    "type": "Crushing Plant",
+    "city": "Straubing",
+    "country": "Germany",
+    "lat": 48.881,
+    "lon": 12.573,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Avril Group Grand-Couronne",
+    "type": "Crushing Plant",
+    "city": "Grand-Couronne",
+    "country": "France",
+    "lat": 49.39,
+    "lon": 1.02,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Bunge Poland Kruszwica",
+    "type": "Crushing Plant",
+    "city": "Kruszwica",
+    "country": "Poland",
+    "lat": 52.676,
+    "lon": 18.319,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Cargill Hungary Martfű",
+    "type": "Crushing Plant",
+    "city": "Martfű",
+    "country": "Hungary",
+    "lat": 47,
+    "lon": 20.283,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Bunge Romania Lehliu",
+    "type": "Crushing Plant",
+    "city": "Lehliu",
+    "country": "Romania",
+    "lat": 44.435,
+    "lon": 26.857,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Bulgaria Varna",
+    "type": "Crushing Plant",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "lat": 43.204,
+    "lon": 27.91,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Czech Prague",
+    "type": "Crushing Plant",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "lat": 50.075,
+    "lon": 14.437,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Victoria Group Šid",
+    "type": "Crushing Plant",
+    "city": "Šid",
+    "country": "Serbia",
+    "lat": 45.132,
+    "lon": 19.224,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Kernel Group Poltava",
+    "type": "Crushing Plant",
+    "city": "Poltava",
+    "country": "Ukraine",
+    "lat": 49.589,
+    "lon": 34.551,
+    "capacity": "800,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "MHP Vinnytsia",
+    "type": "Crushing Plant",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 49.234,
+    "lon": 28.468,
+    "capacity": "600,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Efko Group Alekseyevka",
+    "type": "Crushing Plant",
+    "city": "Alekseyevka",
+    "country": "Russia",
+    "lat": 50.63,
+    "lon": 38.68,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Aston Group Volgograd",
+    "type": "Crushing Plant",
+    "city": "Volgograd",
+    "country": "Russia",
+    "lat": 48.708,
+    "lon": 44.514,
+    "capacity": "500,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "ADM Straubing",
+    "type": "Crushing Plant",
+    "city": "Straubing",
+    "country": "Germany",
+    "lat": 48.881,
+    "lon": 12.573,
+    "capacity": "400,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Avril Group Grand-Couronne",
+    "type": "Crushing Plant",
+    "city": "Grand-Couronne",
+    "country": "France",
+    "lat": 49.39,
+    "lon": 1.02,
+    "capacity": "600,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Bunge Poland Kruszwica",
+    "type": "Crushing Plant",
+    "city": "Kruszwica",
+    "country": "Poland",
+    "lat": 52.676,
+    "lon": 18.319,
+    "capacity": "700,000 MT",
+    "commodity": "Rapeseed"
+  },
+  {
+    "name": "Cargill Hungary Martfű",
+    "type": "Crushing Plant",
+    "city": "Martfű",
+    "country": "Hungary",
+    "lat": 47,
+    "lon": 20.283,
+    "capacity": "500,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Bunge Romania Lehliu",
+    "type": "Crushing Plant",
+    "city": "Lehliu",
+    "country": "Romania",
+    "lat": 44.435,
+    "lon": 26.857,
+    "capacity": "450,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "ADM Bulgaria Varna",
+    "type": "Crushing Plant",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "lat": 43.204,
+    "lon": 27.91,
+    "capacity": "300,000 MT",
+    "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Czech Prague",
+    "type": "Crushing Plant",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "lat": 50.075,
+    "lon": 14.437,
+    "capacity": "250,000 MT",
+    "commodity": "Soybean"
+  },
+  {
+    "name": "Victoria Group Šid",
+    "type": "Crushing Plant",
+    "city": "Šid",
+    "country": "Serbia",
+    "lat": 45.132,
+    "lon": 19.224,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower seed"
   }
 ];
