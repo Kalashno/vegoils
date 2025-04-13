@@ -6458,5 +6458,15 @@ export const facilities = [
     "lon": 6.94,
     "capacity": "450,000 MT",
     "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Elian Barcelona",
+    "type": "Crushing Plant",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.346,
+    "lon": 2.158,
+    "capacity": "700,000 MT",
+    "commodity": "Soybean"
   }
 ];
