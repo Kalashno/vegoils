@@ -6448,5 +6448,15 @@ export const facilities = [
     "lon": 51.389,
     "capacity": "300,000 MT",
     "commodity": "SFO"
+  },
+  {
+    "name": "Verborg Group",
+    "type": "Refinery",
+    "city": "Farmsum",
+    "country": "Netherlands",
+    "lat": 53.323,
+    "lon": 6.94,
+    "capacity": "450,000 MT",
+    "commodity": "Vegetable Oil"
   }
 ];
