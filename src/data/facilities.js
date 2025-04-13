@@ -9858,5 +9858,15 @@ export const facilities = [
     "lon": -38.471,
     "capacity": "500,000 MT",
     "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "OLEOQUÍMICA INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTD",
+    "type": "Refinery",
+    "city": "Aratu",
+    "country": "Brazil",
+    "lat": -12.651,
+    "lon": -38.33,
+    "capacity": "250,000 MT",
+    "commodity": "CPKO"
   }
 ];
