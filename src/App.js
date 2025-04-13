@@ -44,7 +44,7 @@ function App() {
         style={{ height: "100%", width: "100%" }}
       >
         <TileLayer
-          url="https://api.maptiler.com/maps/outdoor-v2/{z}/{x}/{y}.png?key=XmaHIv1FUPKsjE50mQHV"
+          url="https://api.maptiler.com/maps/dataviz/{z}/{x}/{y}.png?key=XmaHIv1FUPKsjE50mQHV"
         />
         {facilities.map((site, index) => {
           const lat = site.Latitude ?? site.lat;
