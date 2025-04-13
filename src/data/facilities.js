@@ -6468,5 +6468,405 @@ export const facilities = [
     "lon": 2.158,
     "capacity": "700,000 MT",
     "commodity": "Soybean"
+  },
+  {
+    "name": "Bunge Brazil Santos",
+    "type": "Refinery",
+    "city": "Santos",
+    "country": "Brazil",
+    "lat": -23.96,
+    "lon": -46.328,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Rondonópolis",
+    "type": "Refinery",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "700,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "ADM Joaçaba",
+    "type": "Refinery",
+    "city": "Joaçaba",
+    "country": "Brazil",
+    "lat": -27.178,
+    "lon": -51.5,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Neste Martinez",
+    "type": "Refinery",
+    "city": "Martinez",
+    "country": "USA",
+    "lat": 38.017,
+    "lon": -122.133,
+    "capacity": "750,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Crimson Renewable Energy Bakersfield",
+    "type": "Refinery",
+    "city": "Bakersfield",
+    "country": "USA",
+    "lat": 35.373,
+    "lon": -119.018,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Pacific Biodiesel Oahu",
+    "type": "Refinery",
+    "city": "Oahu",
+    "country": "USA",
+    "lat": 21.438,
+    "lon": -158,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Savola Morocco Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Refinery",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "ONAP Mauritania Nouakchott",
+    "type": "Refinery",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.078,
+    "lon": -15.965,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Bunge Brazil Santos",
+    "type": "Refinery",
+    "city": "Santos",
+    "country": "Brazil",
+    "lat": -23.96,
+    "lon": -46.328,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Rondonópolis",
+    "type": "Refinery",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "700,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "ADM Joaçaba",
+    "type": "Refinery",
+    "city": "Joaçaba",
+    "country": "Brazil",
+    "lat": -27.178,
+    "lon": -51.5,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Neste Martinez",
+    "type": "Refinery",
+    "city": "Martinez",
+    "country": "USA",
+    "lat": 38.017,
+    "lon": -122.133,
+    "capacity": "750,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Crimson Renewable Energy Bakersfield",
+    "type": "Refinery",
+    "city": "Bakersfield",
+    "country": "USA",
+    "lat": 35.373,
+    "lon": -119.018,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Pacific Biodiesel Oahu",
+    "type": "Refinery",
+    "city": "Oahu",
+    "country": "USA",
+    "lat": 21.438,
+    "lon": -158,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Savola Morocco Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Refinery",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "ONAP Mauritania Nouakchott",
+    "type": "Refinery",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.078,
+    "lon": -15.965,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Bunge Brazil Santos",
+    "type": "Refinery",
+    "city": "Santos",
+    "country": "Brazil",
+    "lat": -23.96,
+    "lon": -46.328,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Rondonópolis",
+    "type": "Refinery",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "700,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "ADM Joaçaba",
+    "type": "Refinery",
+    "city": "Joaçaba",
+    "country": "Brazil",
+    "lat": -27.178,
+    "lon": -51.5,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Neste Martinez",
+    "type": "Refinery",
+    "city": "Martinez",
+    "country": "USA",
+    "lat": 38.017,
+    "lon": -122.133,
+    "capacity": "750,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Crimson Renewable Energy Bakersfield",
+    "type": "Refinery",
+    "city": "Bakersfield",
+    "country": "USA",
+    "lat": 35.373,
+    "lon": -119.018,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Pacific Biodiesel Oahu",
+    "type": "Refinery",
+    "city": "Oahu",
+    "country": "USA",
+    "lat": 21.438,
+    "lon": -158,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Savola Morocco Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Refinery",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "ONAP Mauritania Nouakchott",
+    "type": "Refinery",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.078,
+    "lon": -15.965,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Bunge Brazil Santos",
+    "type": "Refinery",
+    "city": "Santos",
+    "country": "Brazil",
+    "lat": -23.96,
+    "lon": -46.328,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Rondonópolis",
+    "type": "Refinery",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "700,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "ADM Joaçaba",
+    "type": "Refinery",
+    "city": "Joaçaba",
+    "country": "Brazil",
+    "lat": -27.178,
+    "lon": -51.5,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Neste Martinez",
+    "type": "Refinery",
+    "city": "Martinez",
+    "country": "USA",
+    "lat": 38.017,
+    "lon": -122.133,
+    "capacity": "750,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Crimson Renewable Energy Bakersfield",
+    "type": "Refinery",
+    "city": "Bakersfield",
+    "country": "USA",
+    "lat": 35.373,
+    "lon": -119.018,
+    "capacity": "250,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Pacific Biodiesel Oahu",
+    "type": "Refinery",
+    "city": "Oahu",
+    "country": "USA",
+    "lat": 21.438,
+    "lon": -158,
+    "capacity": "120,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Savola Morocco Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Libyan Edible Oils Tripoli",
+    "type": "Refinery",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.875,
+    "lon": 13.187,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "ONAP Mauritania Nouakchott",
+    "type": "Refinery",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.078,
+    "lon": -15.965,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Bunge Brazil Santos",
+    "type": "Refinery",
+    "city": "Santos",
+    "country": "Brazil",
+    "lat": -23.96,
+    "lon": -46.328,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Rondonópolis",
+    "type": "Refinery",
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "lat": -16.467,
+    "lon": -54.638,
+    "capacity": "700,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "ADM Joaçaba",
+    "type": "Refinery",
+    "city": "Joaçaba",
+    "country": "Brazil",
+    "lat": -27.178,
+    "lon": -51.5,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Neste Martinez",
+    "type": "Refinery",
+    "city": "Martinez",
+    "country": "USA",
+    "lat": 38.017,
+    "lon": -122.133,
+    "capacity": "750,000 MT",
+    "commodity": "Vegetable Oil"
   }
 ];
