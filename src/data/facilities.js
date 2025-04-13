@@ -9848,5 +9848,15 @@ export const facilities = [
     "lon": 19.224,
     "capacity": "400,000 MT",
     "commodity": "Sunflower seed"
+  },
+  {
+    "name": "M. Dias Branco",
+    "type": "Refinery",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "lat": -3.71,
+    "lon": -38.471,
+    "capacity": "500,000 MT",
+    "commodity": "Vegetable Oil"
   }
 ];
