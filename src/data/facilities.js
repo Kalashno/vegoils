@@ -5248,5 +5248,605 @@ export const facilities = [
     "lon": 39.21,
     "capacity": "350,000 MT",
     "commodity": "SFO"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Refinery",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Savola Group Alexandria",
+    "type": "Refinery",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "lat": 31.2,
+    "lon": 29.917,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Refinery",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Areej Vegetable Oils Khartoum",
+    "type": "Refinery",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "lat": 15.5,
+    "lon": 32.56,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Refinery",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "T.K. Group Narayanganj",
+    "type": "Refinery",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "280,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "P.T. Oil & Fats Colombo",
+    "type": "Refinery",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Refinery",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Savola Group Alexandria",
+    "type": "Refinery",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "lat": 31.2,
+    "lon": 29.917,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Refinery",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Areej Vegetable Oils Khartoum",
+    "type": "Refinery",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "lat": 15.5,
+    "lon": 32.56,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Refinery",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "T.K. Group Narayanganj",
+    "type": "Refinery",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "280,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "P.T. Oil & Fats Colombo",
+    "type": "Refinery",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Refinery",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Savola Group Alexandria",
+    "type": "Refinery",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "lat": 31.2,
+    "lon": 29.917,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Refinery",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Areej Vegetable Oils Khartoum",
+    "type": "Refinery",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "lat": 15.5,
+    "lon": 32.56,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Refinery",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "T.K. Group Narayanganj",
+    "type": "Refinery",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "280,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "P.T. Oil & Fats Colombo",
+    "type": "Refinery",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Refinery",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Savola Group Alexandria",
+    "type": "Refinery",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "lat": 31.2,
+    "lon": 29.917,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Refinery",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Areej Vegetable Oils Khartoum",
+    "type": "Refinery",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "lat": 15.5,
+    "lon": 32.56,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Refinery",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "T.K. Group Narayanganj",
+    "type": "Refinery",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "280,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "P.T. Oil & Fats Colombo",
+    "type": "Refinery",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Refinery",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Savola Group Alexandria",
+    "type": "Refinery",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "lat": 31.2,
+    "lon": 29.917,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Refinery",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Areej Vegetable Oils Khartoum",
+    "type": "Refinery",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "lat": 15.5,
+    "lon": 32.56,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Refinery",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "T.K. Group Narayanganj",
+    "type": "Refinery",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "280,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "P.T. Oil & Fats Colombo",
+    "type": "Refinery",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Arma Oils Cairo",
+    "type": "Refinery",
+    "city": "Cairo",
+    "country": "Egypt",
+    "lat": 30.033,
+    "lon": 31.233,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Savola Group Alexandria",
+    "type": "Refinery",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "lat": 31.2,
+    "lon": 29.917,
+    "capacity": "250,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Lesieur Cristal Casablanca",
+    "type": "Refinery",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "lat": 33.573,
+    "lon": -7.589,
+    "capacity": "400,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Carthage Grains Tunis",
+    "type": "Refinery",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "lat": 36.806,
+    "lon": 10.181,
+    "capacity": "350,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Areej Vegetable Oils Khartoum",
+    "type": "Refinery",
+    "city": "Khartoum",
+    "country": "Sudan",
+    "lat": 15.5,
+    "lon": 32.56,
+    "capacity": "200,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Gemini Edibles Hyderabad",
+    "type": "Refinery",
+    "city": "Hyderabad",
+    "country": "India",
+    "lat": 17.385,
+    "lon": 78.486,
+    "capacity": "500,000 MT",
+    "commodity": "SFO"
+  },
+  {
+    "name": "Adani Wilmar Mundra",
+    "type": "Refinery",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.839,
+    "lon": 69.721,
+    "capacity": "700,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Sufi Oil Mills Lahore",
+    "type": "Refinery",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.549,
+    "lon": 74.343,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "T.K. Group Narayanganj",
+    "type": "Refinery",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "lat": 23.622,
+    "lon": 90.5,
+    "capacity": "280,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "P.T. Oil & Fats Colombo",
+    "type": "Refinery",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.927,
+    "lon": 79.861,
+    "capacity": "150,000 MT",
+    "commodity": "Vegetable Oil"
   }
 ];
