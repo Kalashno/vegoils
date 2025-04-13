@@ -2354,7 +2354,7 @@ export const facilities = [
     "type": "Refinery",
     "city": "Barcelona",
     "country": "Spain",
-    "lat": 41.342,
+    "lat": 41.529,
     "lon": 2.154,
     "capacity": "700,000 MT",
     "commodity": "Vegetable Oil"
