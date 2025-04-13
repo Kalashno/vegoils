@@ -110,13 +110,13 @@ export const facilities = [
     "commodity": "CPO"
   },
   {
-    "name": "ADM (Fino) Santa Cruz",
+    "name": "Adani Mundra",
     "type": "Refinery",
-    "city": "Santa Cruz",
-    "country": "Bolivia",
-    "lat": -17.7833,
-    "lon": -63.1833,
-    "capacity": "300,000 MT",
+    "city": "Mundra",
+    "country": "India",
+    "lat": 22.72,
+    "lon": 69.72,
+    "capacity": "1,000,000 MT",
     "commodity": "SBO"
   },
   {
@@ -196,7 +196,7 @@ export const facilities = [
     "country": "United Kingdom",
     "lat": 51.481,
     "lon": 0.175,
-    "capacity": "385,000 MT",
+    "capacity": "500,000 MT",
     "commodity": "RSO"
   },
   {
@@ -236,16 +236,6 @@ export const facilities = [
     "country": "Netherlands",
     "lat": 51.9244,
     "lon": 4.4777,
-    "capacity": "1,000,000 MT",
-    "commodity": "SBO"
-  },
-  {
-    "name": "ADM Europoort Plant",
-    "type": "Refinery",
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "lat": 51.9244,
-    "lon": 4.4977,
     "capacity": "1,000,000 MT",
     "commodity": "SBO"
   },
@@ -430,23 +420,13 @@ export const facilities = [
     "commodity": "SBO"
   },
   {
-    "name": "Agroindustrial de Oleaginosas Bluefields",
-    "type": "Refinery",
-    "city": "Bluefields",
-    "country": "Nicaragua",
-    "lat": 12.0137,
-    "lon": -83.7635,
-    "capacity": "30,000 MT",
-    "commodity": "CPO"
-  },
-  {
     "name": "Agrosa Bluefields",
     "type": "Refinery",
     "city": "Bluefields",
     "country": "Nicaragua",
     "lat": 12.0137,
     "lon": -83.7635,
-    "capacity": "20,000 MT",
+    "capacity": "30,000 MT",
     "commodity": "CPO"
   },
   {
@@ -490,6 +470,16 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
+    "name": "Alicorp Santa Cruz",
+    "type": "Refinery",
+    "city": "Santa Cruz",
+    "country": "Bolivia",
+    "lat": -17.517,
+    "lon": -63.167,
+    "capacity": "300,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Alimentos Santa Rosa Río Cuarto",
     "type": "Crushing Plant",
     "city": "Río Cuarto",
@@ -510,14 +500,14 @@ export const facilities = [
     "commodity": "Sunflower seed"
   },
   {
-    "name": "Allseeds Yuzhne",
+    "name": "Angoalissar",
     "type": "Refinery",
-    "city": "Yuzhne",
-    "country": "Ukraine",
-    "lat": 46.64,
-    "lon": 31.1,
-    "capacity": "300,000 MT",
-    "commodity": "SFO"
+    "city": "Luanda",
+    "country": "Angola",
+    "lat": -8.812,
+    "lon": 13.24,
+    "capacity": "120,000 MT",
+    "commodity": "CPO, SBO"
   },
   {
     "name": "Apical Apical Sumatra (Crushing)",
@@ -580,6 +570,46 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
+    "name": "Archer Daniels Midland Decatur",
+    "type": "Refinery",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.8403,
+    "lon": -88.9548,
+    "capacity": "2,000,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Archer Daniels Midland Lubbock",
+    "type": "Refinery",
+    "city": "Lubbock",
+    "country": "USA",
+    "lat": 33.5779,
+    "lon": -101.8552,
+    "capacity": "1,200,000 MT",
+    "commodity": "Cottonseed Oil"
+  },
+  {
+    "name": "Archer Daniels Midland Velva",
+    "type": "Refinery",
+    "city": "Velva",
+    "country": "USA",
+    "lat": 48.0564,
+    "lon": -100.9315,
+    "capacity": "700,000 MT",
+    "commodity": "Canola Oil"
+  },
+  {
+    "name": "Archer Daniels Midland Windsor",
+    "type": "Refinery",
+    "city": "Windsor",
+    "country": "Canada",
+    "lat": 42.3149,
+    "lon": -83.0364,
+    "capacity": "700,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Arcor San Pedro",
     "type": "Crushing Plant",
     "city": "San Pedro",
@@ -614,7 +644,7 @@ export const facilities = [
     "type": "Refinery",
     "city": "Tema",
     "country": "Ghana",
-    "lat": 5.67,
+    "lat": 5.37,
     "lon": -0.002,
     "capacity": "500,000 MT",
     "commodity": "CPO"
@@ -670,6 +700,16 @@ export const facilities = [
     "commodity": "Soybean"
   },
   {
+    "name": "Blago Group Rostov",
+    "type": "Refinery",
+    "city": "Rostov-on-Don",
+    "country": "Russia",
+    "lat": 47.2357,
+    "lon": 39.7015,
+    "capacity": "700,000 MT",
+    "commodity": "Sunflower Oil"
+  },
+  {
     "name": "Broekelmann & Co Hamm",
     "type": "Crushing Plant",
     "city": "Hamm",
@@ -697,26 +737,6 @@ export const facilities = [
     "lat": 49.104,
     "lon": -97.54,
     "capacity": "250,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
-    "name": "Bunge Amsterdam",
-    "type": "Refinery",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "lat": 52.367,
-    "lon": 4.904,
-    "capacity": "500,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
-    "name": "Bunge Barcelona",
-    "type": "Refinery",
-    "city": "Barcelona",
-    "country": "Spain",
-    "lat": 41.385,
-    "lon": 2.173,
-    "capacity": "500,000 MT",
     "commodity": "Vegetable Oil"
   },
   {
@@ -841,6 +861,16 @@ export const facilities = [
   },
   {
     "name": "Bunge Decatur",
+    "type": "Refinery",
+    "city": "Decatur",
+    "country": "USA",
+    "lat": 39.8403,
+    "lon": -88.9548,
+    "capacity": "1,500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Bunge Decatur",
     "type": "Crushing Plant",
     "city": "Decatur, Al",
     "country": "United States",
@@ -941,6 +971,16 @@ export const facilities = [
   },
   {
     "name": "Bunge Fort Saskatchewan",
+    "type": "Refinery",
+    "city": "Fort Sask.",
+    "country": "Canada",
+    "lat": 53.7126,
+    "lon": -113.213,
+    "capacity": "850,000 MT",
+    "commodity": "Canola Oil"
+  },
+  {
+    "name": "Bunge Fort Saskatchewan",
     "type": "Crushing Plant",
     "city": "Fort Saskatchewan, Ab",
     "country": "Canada",
@@ -961,21 +1001,21 @@ export const facilities = [
   },
   {
     "name": "Bunge Hamilton",
+    "type": "Refinery",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2557,
+    "lon": -79.8711,
+    "capacity": "850,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Bunge Hamilton",
     "type": "Crushing Plant",
     "city": "Hamilton, On",
     "country": "Canada",
     "lat": 43.255,
     "lon": -79.871,
-    "capacity": "150,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
-    "name": "Bunge Hamilton",
-    "type": "Refinery",
-    "city": "Hamilton, On",
-    "country": "Canada",
-    "lat": 43.255,
-    "lon": -79.851,
     "capacity": "150,000 MT",
     "commodity": "Vegetable Oil"
   },
@@ -1162,7 +1202,7 @@ export const facilities = [
   {
     "name": "Bunge Martfu",
     "type": "Refinery",
-    "city": "Martf?",
+    "city": "Martfu",
     "country": "Hungary",
     "lat": 47,
     "lon": 20.303,
@@ -1231,21 +1271,21 @@ export const facilities = [
   },
   {
     "name": "Bunge Nipawin",
+    "type": "Refinery",
+    "city": "Nipawin",
+    "country": "Canada",
+    "lat": 53.3594,
+    "lon": -104.019,
+    "capacity": "700,000 MT",
+    "commodity": "Canola Oil"
+  },
+  {
+    "name": "Bunge Nipawin",
     "type": "Crushing Plant",
     "city": "Nipawin, Sk",
     "country": "Canada",
     "lat": 53.355,
     "lon": -104.009,
-    "capacity": "240,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
-    "name": "Bunge Nipawin",
-    "type": "Refinery",
-    "city": "Nipawin, Sk",
-    "country": "Canada",
-    "lat": 53.355,
-    "lon": -103.989,
     "capacity": "240,000 MT",
     "commodity": "Vegetable Oil"
   },
@@ -1460,16 +1500,6 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
-    "name": "Bunge Tianjin",
-    "type": "Refinery",
-    "city": "Tianjin",
-    "country": "China",
-    "lat": 39.343,
-    "lon": 117.361,
-    "capacity": "500,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
     "name": "Bunge Tiruchirappalli",
     "type": "Refinery",
     "city": "Tiruchirappalli",
@@ -1530,6 +1560,16 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
+    "name": "Cargill Aberdeen",
+    "type": "Refinery",
+    "city": "Aberdeen",
+    "country": "USA",
+    "lat": 45.4647,
+    "lon": -98.4865,
+    "capacity": "900,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Cargill Amsterdam",
     "type": "Crushing Plant",
     "city": "Amsterdam",
@@ -1546,8 +1586,8 @@ export const facilities = [
     "country": "Netherlands",
     "lat": 52.42,
     "lon": 4.88,
-    "capacity": "200,000 MT",
-    "commodity": "SBO"
+    "capacity": "800,000 MT",
+    "commodity": "Vegetable Oil"
   },
   {
     "name": "Cargill Borg El Arab",
@@ -1572,12 +1612,32 @@ export const facilities = [
   {
     "name": "Cargill Clavet",
     "type": "Refinery",
-    "city": "Clavet, Sk",
+    "city": "Clavet",
     "country": "Canada",
-    "lat": 52.037,
-    "lon": -106.34,
+    "lat": 52.012,
+    "lon": -106.4344,
+    "capacity": "1,000,000 MT",
+    "commodity": "Canola Oil"
+  },
+  {
+    "name": "Cargill Des Moines",
+    "type": "Refinery",
+    "city": "Des Moines",
+    "country": "USA",
+    "lat": 41.5868,
+    "lon": -93.625,
+    "capacity": "1,000,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Fayetteville",
+    "type": "Refinery",
+    "city": "Fayetteville",
+    "country": "USA",
+    "lat": 36.0626,
+    "lon": -94.1574,
     "capacity": "500,000 MT",
-    "commodity": "RSO"
+    "commodity": "SBO"
   },
   {
     "name": "Cargill Ing. White",
@@ -1598,6 +1658,16 @@ export const facilities = [
     "lon": 33.47,
     "capacity": "600,000 MT",
     "commodity": "Sunflower seed"
+  },
+  {
+    "name": "Cargill Kansas City",
+    "type": "Refinery",
+    "city": "Kansas City",
+    "country": "USA",
+    "lat": 39.0997,
+    "lon": -94.5786,
+    "capacity": "900,000 MT",
+    "commodity": "SBO"
   },
   {
     "name": "Cargill Montoir",
@@ -1640,6 +1710,16 @@ export const facilities = [
     "commodity": "Rapeseed"
   },
   {
+    "name": "Cargill Sidney",
+    "type": "Refinery",
+    "city": "Sidney",
+    "country": "USA",
+    "lat": 40.2864,
+    "lon": -84.1555,
+    "capacity": "900,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Cargill Uberlândia",
     "type": "Refinery",
     "city": "Uberlândia",
@@ -1660,13 +1740,23 @@ export const facilities = [
     "commodity": "SBO"
   },
   {
-    "name": "Cargill Villeta",
+    "name": "Cargill West Fargo",
     "type": "Refinery",
-    "city": "Villeta",
-    "country": "Paraguay",
-    "lat": -25.5,
-    "lon": -57.53,
-    "capacity": "500,000 MT",
+    "city": "West Fargo",
+    "country": "USA",
+    "lat": 46.8749,
+    "lon": -96.9003,
+    "capacity": "1,100,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Cargill Wichita",
+    "type": "Refinery",
+    "city": "Wichita",
+    "country": "USA",
+    "lat": 37.6872,
+    "lon": -97.3301,
+    "capacity": "1,200,000 MT",
     "commodity": "SBO"
   },
   {
@@ -1677,7 +1767,7 @@ export const facilities = [
     "lat": 37.2746,
     "lon": 9.873899999999999,
     "capacity": "150,000 MT",
-    "commodity": "SBO"
+    "commodity": "Vegetable Oil"
   },
   {
     "name": "Cevital Béjaïa",
@@ -1750,6 +1840,16 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
+    "name": "COFCO Tianjin",
+    "type": "Refinery",
+    "city": "Tianjin",
+    "country": "China",
+    "lat": 39.3434,
+    "lon": 117.3616,
+    "capacity": "850,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Corporación Dinant Tocoa",
     "type": "Refinery",
     "city": "Tocoa",
@@ -1772,21 +1872,22 @@ export const facilities = [
   {
     "name": "Daabon Santa Marta",
     "type": "Refinery",
-    "country": "Colombia",
-    "lat": 11.242,
-    "lon": -74.205,
-    "capacity": "330,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
-    "name": "Daabon Santa Marta",
-    "type": "Refinery",
     "city": "Santa Marta",
     "country": "Colombia",
     "lat": 11.2408,
     "lon": -74.199,
     "capacity": "100,000 MT",
     "commodity": "CPO"
+  },
+  {
+    "name": "Daabon Santa Marta",
+    "type": "Refinery",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.242,
+    "lon": -74.205,
+    "capacity": "330,000 MT",
+    "commodity": "Vegetable Oil"
   },
   {
     "name": "Danec Guayaquil",
@@ -1810,16 +1911,6 @@ export const facilities = [
   },
   {
     "name": "Delta Wilmar Allseeds",
-    "type": "Crushing Plant",
-    "city": "Yuzhny",
-    "country": "Ukraine",
-    "lat": 46.622,
-    "lon": 31.101,
-    "capacity": "800,000 MT",
-    "commodity": "Sunflower seed"
-  },
-  {
-    "name": "Delta Wilmar Allseeds",
     "type": "Refinery",
     "city": "Yuzhne",
     "country": "Ukraine",
@@ -1827,6 +1918,16 @@ export const facilities = [
     "lon": 31.12,
     "capacity": "300,000 MT",
     "commodity": "SFO"
+  },
+  {
+    "name": "Delta Wilmar Allseeds",
+    "type": "Crushing Plant",
+    "city": "Yuzhny",
+    "country": "Ukraine",
+    "lat": 46.622,
+    "lon": 31.101,
+    "capacity": "800,000 MT",
+    "commodity": "Sunflower seed"
   },
   {
     "name": "Dreyfus General Cabrera",
@@ -1909,16 +2010,6 @@ export const facilities = [
     "commodity": "Sunflower seed"
   },
   {
-    "name": "Fagrave Barranquilla (Team Foods)",
-    "type": "Refinery",
-    "city": "Barranquilla",
-    "country": "Colombia",
-    "lat": 10.963899999999999,
-    "lon": -74.79639999999999,
-    "capacity": "150,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
     "name": "Flour Mills Lagos",
     "type": "Refinery",
     "city": "Lagos",
@@ -1927,6 +2018,26 @@ export const facilities = [
     "lon": 3.3792,
     "capacity": "150,000 MT",
     "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Fuji Oil Savannah",
+    "type": "Refinery",
+    "city": "Savannah",
+    "country": "USA",
+    "lat": 32.0809,
+    "lon": -81.0912,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Fuji Oil Singapore",
+    "type": "Refinery",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198,
+    "capacity": "800,000 MT",
+    "commodity": "CPO"
   },
   {
     "name": "Germaiz Baradero",
@@ -1994,7 +2105,7 @@ export const facilities = [
     "city": "Santa Cruz",
     "country": "Bolivia",
     "lat": -17.7833,
-    "lon": -63.1833,
+    "lon": -63.133,
     "capacity": "300,000 MT",
     "commodity": "SBO"
   },
@@ -2041,15 +2152,6 @@ export const facilities = [
   {
     "name": "Hondupalma Guaymas",
     "type": "Refinery",
-    "country": "Honduras",
-    "lat": 15.56,
-    "lon": -87.75,
-    "capacity": "112,000 MT",
-    "commodity": "CPO"
-  },
-  {
-    "name": "Hondupalma Guaymas",
-    "type": "Refinery",
     "city": "Guaymas",
     "country": "Honduras",
     "lat": 15.25,
@@ -2058,8 +2160,19 @@ export const facilities = [
     "commodity": "CPO"
   },
   {
+    "name": "Hondupalma Guaymas",
+    "type": "Refinery",
+    "city": "Guaymas",
+    "country": "Honduras",
+    "lat": 15.56,
+    "lon": -87.75,
+    "capacity": "112,000 MT",
+    "commodity": "CPO"
+  },
+  {
     "name": "Industrial Danec Quito",
     "type": "Refinery",
+    "city": "Quito",
     "country": "Ecuador",
     "lat": -0.33,
     "lon": -78.45,
@@ -2075,6 +2188,16 @@ export const facilities = [
     "lon": -60.473,
     "capacity": "49,500 MT",
     "commodity": "Sunflower seed"
+  },
+  {
+    "name": "IOI Penang",
+    "type": "Refinery",
+    "city": "Penang",
+    "country": "Malaysia",
+    "lat": 5.416,
+    "lon": 100.317,
+    "capacity": "750,000 MT",
+    "commodity": "CPO"
   },
   {
     "name": "Jordan Veg Oil Amman",
@@ -2139,6 +2262,7 @@ export const facilities = [
   {
     "name": "La Fabril Montecristi",
     "type": "Refinery",
+    "city": "Montecristi",
     "country": "Ecuador",
     "lat": -1.05,
     "lon": -80.683,
@@ -2256,14 +2380,14 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
-    "name": "MEDOIL Refining Bizerte",
+    "name": "Maya & Cie",
     "type": "Refinery",
-    "city": "Bizerte",
-    "country": "Tunisia",
-    "lat": 37.2746,
-    "lon": 9.873899999999999,
-    "capacity": "100,000 MT",
-    "commodity": "Vegetable Oil"
+    "city": "Bonaberi",
+    "country": "Cameroon",
+    "lat": 4.1,
+    "lon": 9.63,
+    "capacity": "250,000 MT",
+    "commodity": "CPO, SBO"
   },
   {
     "name": "Mestilla Klaipeda",
@@ -2352,8 +2476,8 @@ export const facilities = [
     "country": "Zambia",
     "lat": -15.3875,
     "lon": 28.3228,
-    "capacity": "100,000 MT",
-    "commodity": "SBO"
+    "capacity": "140,000 MT",
+    "commodity": "SBO, SFO"
   },
   {
     "name": "Murzah Dar es Salaam",
@@ -2366,6 +2490,16 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
+    "name": "Musim Mas Medan",
+    "type": "Refinery",
+    "city": "Medan",
+    "country": "Indonesia",
+    "lat": 3.5952,
+    "lon": 98.6722,
+    "capacity": "900,000 MT",
+    "commodity": "CPO"
+  },
+  {
     "name": "Nat. Aceitera Tío Pujio",
     "type": "Crushing Plant",
     "city": "Tío Pujio",
@@ -2376,21 +2510,22 @@ export const facilities = [
     "commodity": "Sunflower seed"
   },
   {
-    "name": "Naturaceites Escuintla",
-    "type": "Refinery",
-    "country": "Guatemala",
-    "lat": 14.305,
-    "lon": -90.785,
-    "capacity": "100,000 MT",
-    "commodity": "CPO"
-  },
-  {
     "name": "NaturAceites Escuintla",
     "type": "Refinery",
     "city": "Escuintla",
     "country": "Guatemala",
     "lat": 14.3009,
     "lon": -90.78580000000001,
+    "capacity": "100,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Naturaceites Escuintla",
+    "type": "Refinery",
+    "city": "Escuintla",
+    "country": "Guatemala",
+    "lat": 14.305,
+    "lon": -90.785,
     "capacity": "100,000 MT",
     "commodity": "CPO"
   },
@@ -2425,23 +2560,23 @@ export const facilities = [
     "commodity": "RSO"
   },
   {
-    "name": "O&L Sels Gmbh Neuss",
-    "type": "Refinery",
-    "city": "Neuss",
-    "country": "Germany",
-    "lat": 51.2048,
-    "lon": 6.697,
-    "capacity": "300,000 MT",
-    "commodity": "RSO"
-  },
-  {
-    "name": "Okomu Oil Palm Benin",
+    "name": "Okomu Oil Palm / Presco Benin",
     "type": "Refinery",
     "city": "Benin City",
     "country": "Nigeria",
     "lat": 6.3382,
     "lon": 5.6258,
-    "capacity": "30,000 MT",
+    "capacity": "100,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Olam Group Tema",
+    "type": "Refinery",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.63,
+    "lon": 0.001,
+    "capacity": "600,000 MT",
     "commodity": "CPO"
   },
   {
@@ -2461,7 +2596,7 @@ export const facilities = [
     "country": "Nigeria",
     "lat": 6.465,
     "lon": 3.426,
-    "capacity": "200,000 MT",
+    "capacity": "500,000 MT",
     "commodity": "CPO"
   },
   {
@@ -2507,6 +2642,7 @@ export const facilities = [
   {
     "name": "Oleofinos",
     "type": "Refinery",
+    "city": "Veracruz",
     "country": "Mexico",
     "lat": 20.659,
     "lon": -103.349,
@@ -2534,16 +2670,6 @@ export const facilities = [
     "commodity": "Sunflower seed"
   },
   {
-    "name": "Olivine Industries Harare",
-    "type": "Refinery",
-    "city": "Harare",
-    "country": "Zimbabwe",
-    "lat": -17.825200000000002,
-    "lon": 31.0335,
-    "capacity": "80,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
     "name": "Oliyar Stavchany",
     "type": "Crushing Plant",
     "city": "Stavchany",
@@ -2564,18 +2690,9 @@ export const facilities = [
     "commodity": "SBO, SFO, RSO"
   },
   {
-    "name": "Oliyar Stavchany (Alt)",
-    "type": "Refinery",
-    "city": "Stavchany",
-    "country": "Ukraine",
-    "lat": 49.841,
-    "lon": 24.485,
-    "capacity": "1,050,000 MT",
-    "commodity": "SBO, SFO, RSO"
-  },
-  {
     "name": "Olmeca Fraijanes",
     "type": "Refinery",
+    "city": "Fraijanes",
     "country": "Guatemala",
     "lat": 14.539,
     "lon": -90.452,
@@ -2651,16 +2768,6 @@ export const facilities = [
     "lon": 12.119,
     "capacity": "1,000,000 MT",
     "commodity": "RSO"
-  },
-  {
-    "name": "Presco Benin City",
-    "type": "Refinery",
-    "city": "Benin City",
-    "country": "Nigeria",
-    "lat": 6.3382,
-    "lon": 5.6258,
-    "capacity": "100,000 MT",
-    "commodity": "CPO"
   },
   {
     "name": "ProtOil 9 de Julio",
@@ -2943,6 +3050,16 @@ export const facilities = [
     "commodity": "Sunflower seed"
   },
   {
+    "name": "Sigma Oil Kopeysk",
+    "type": "Refinery",
+    "city": "Kopeysk",
+    "country": "Russia",
+    "lat": 55.101,
+    "lon": 61.618,
+    "capacity": "400,000 MT",
+    "commodity": "Sunflower Oil"
+  },
+  {
     "name": "Sime Darby Boksburg",
     "type": "Refinery",
     "city": "Boksburg",
@@ -2983,14 +3100,14 @@ export const facilities = [
     "commodity": "Vegetable Oil"
   },
   {
-    "name": "Sime Darby Rotterdam",
+    "name": "Sime Darby Pulau Laut",
     "type": "Refinery",
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "lat": 51.887,
-    "lon": 4.29,
-    "capacity": "500,000 MT",
-    "commodity": "Vegetable Oil"
+    "city": "Pulau Laut",
+    "country": "Indonesia",
+    "lat": -3.7,
+    "lon": 116,
+    "capacity": "750,000 MT",
+    "commodity": "CPO"
   },
   {
     "name": "Sime Darby Singapore",
@@ -3010,6 +3127,16 @@ export const facilities = [
     "lat": 51.829,
     "lon": 4.633,
     "capacity": "500,000 MT",
+    "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Sonacos SA",
+    "type": "Refinery",
+    "city": "Dakar",
+    "country": "Senegal",
+    "lat": 14.665,
+    "lon": -17.442,
+    "capacity": "200,000 MT",
     "commodity": "Vegetable Oil"
   },
   {
@@ -3093,6 +3220,16 @@ export const facilities = [
     "commodity": "CPO"
   },
   {
+    "name": "Thai Vegetable Oil Bangkok",
+    "type": "Refinery",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7563,
+    "lon": 100.5018,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Thywissen Neuss",
     "type": "Refinery",
     "city": "Neuss",
@@ -3100,7 +3237,7 @@ export const facilities = [
     "lat": 51.2048,
     "lon": 6.685,
     "capacity": "300,000 MT",
-    "commodity": "Vegetable Oil"
+    "commodity": "RSO, SFO"
   },
   {
     "name": "Trakya Birlik Tekirdağ",
@@ -3265,12 +3402,12 @@ export const facilities = [
   {
     "name": "Viterra Ste. Agathe",
     "type": "Refinery",
-    "city": "Ste. Agathe, Mb",
+    "city": "Ste. Agathe",
     "country": "Canada",
-    "lat": 49.688,
+    "lat": 49.6897,
     "lon": -97.147,
-    "capacity": "350,000 MT",
-    "commodity": "RSO"
+    "capacity": "600,000 MT",
+    "commodity": "Canola Oil"
   },
   {
     "name": "Viterra Ústí Nad Labem",
@@ -3281,6 +3418,16 @@ export const facilities = [
     "lon": 14.04,
     "capacity": "120,000 MT",
     "commodity": "Vegetable Oil"
+  },
+  {
+    "name": "Viterra Warden",
+    "type": "Refinery",
+    "city": "Warden",
+    "country": "USA",
+    "lat": 47.0943,
+    "lon": -119.0196,
+    "capacity": "500,000 MT",
+    "commodity": "SBO"
   },
   {
     "name": "Viterra Warden",
@@ -3303,6 +3450,36 @@ export const facilities = [
     "commodity": "SFO"
   },
   {
+    "name": "Wilmar Dongguan",
+    "type": "Refinery",
+    "city": "Dongguan",
+    "country": "China",
+    "lat": 23.0205,
+    "lon": 113.7438,
+    "capacity": "1,000,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Wilmar Dumai",
+    "type": "Refinery",
+    "city": "Dumai",
+    "country": "Indonesia",
+    "lat": 1.667,
+    "lon": 101.45,
+    "capacity": "1,200,000 MT",
+    "commodity": "CPO"
+  },
+  {
+    "name": "Wilmar Harbin",
+    "type": "Refinery",
+    "city": "Harbin",
+    "country": "China",
+    "lat": 45.8038,
+    "lon": 126.535,
+    "capacity": "600,000 MT",
+    "commodity": "SBO"
+  },
+  {
     "name": "Wilmar International Brake",
     "type": "Refinery",
     "city": "Brake",
@@ -3313,63 +3490,53 @@ export const facilities = [
     "commodity": "CPO, PKO"
   },
   {
-    "name": "Wilmar International Tema",
+    "name": "Wilmar Qinhuangdao",
     "type": "Refinery",
-    "city": "Tema",
-    "country": "Ghana",
-    "lat": 5.67,
-    "lon": 0.02,
-    "capacity": "200,000 MT",
-    "commodity": "CPO"
+    "city": "Qinhuangdao",
+    "country": "China",
+    "lat": 39.9442,
+    "lon": 119.5983,
+    "capacity": "750,000 MT",
+    "commodity": "SBO"
+  },
+  {
+    "name": "Wilmar Shanghai",
+    "type": "Refinery",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.2304,
+    "lon": 121.4737,
+    "capacity": "1,000,000 MT",
+    "commodity": "SBO"
   },
   {
     "name": "Wilmar Tema",
     "type": "Refinery",
     "city": "Tema",
     "country": "Ghana",
-    "lat": 5.67,
-    "lon": -0.002,
+    "lat": 5.666,
+    "lon": 0.016,
     "capacity": "250,000 MT",
     "commodity": "CPO"
+  },
+  {
+    "name": "Wilmar Zhangjiagang",
+    "type": "Refinery",
+    "city": "Zhangjiagang",
+    "country": "China",
+    "lat": 31.865,
+    "lon": 120.538,
+    "capacity": "800,000 MT",
+    "commodity": "SBO"
   },
   {
     "name": "Zamanita Lusaka",
     "type": "Refinery",
     "city": "Lusaka",
     "country": "Zambia",
-    "lat": -15.3875,
-    "lon": 28.3228,
+    "lat": -15.417,
+    "lon": 28.283,
     "capacity": "120,000 MT",
     "commodity": "SBO"
-  },
-  {
-    "name": "Maya & Cie",
-    "type": "Refinery",
-    "city": "Bonaberi",
-    "country": "Cameroon",
-    "lat": 4.1,
-    "lon": 9.63,
-    "capacity": "250,000 MT",
-    "commodity": "CPO, SBO"
-  },
-  {
-    "name": "Sonacos SA",
-    "type": "Refinery",
-    "city": "Dakar",
-    "country": "Senegal",
-    "lat": 14.665,
-    "lon": -17.442,
-    "capacity": "200,000 MT",
-    "commodity": "Vegetable Oil"
-  },
-  {
-    "name": "Angoalissar",
-    "type": "Refinery",
-    "city": "Luanda",
-    "country": "Angola",
-    "lat": -8.812,
-    "lon": 13.24,
-    "capacity": "120,000 MT",
-    "commodity": "CPO, SBO"
   }
 ];
